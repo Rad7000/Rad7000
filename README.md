@@ -1,5 +1,5 @@
 - 📺 The owner of Clippy's Tech Discussion on YouTube
-- 🧑‍💻 Current repositories: 1
+- 🧑‍💻 Current repositories: 1 (forked)
 - ⚡ Interested in HTML, Python, JavaScript, and Java
 - 📬 Reach me in Instagram @clippys_tech_discussion
 
