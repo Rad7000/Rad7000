@@ -3,7 +3,7 @@
 - ⚡ Interested in HTML, Python, JavaScript, and Java
 - 📬 Reach me in Instagram @clippys_tech_discussion
 
-[![Clippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiedev)]
+[![Clippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiedev)
 
 <!---
 AjiKastara/AjiKastara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
