@@ -3,7 +3,8 @@
 - 📺 The owner of clippydotvbs on YouTube
 - 🧑‍💻 Current repositories: 4 (2 forked)
 - ⚡ Interested in HTML, Python, JavaScript, C, and C++
-- 📬 Reach me in Instagram @clippy.vbs
+- 📬 Reach me at Instagram: @clippy.vbs
+- 🐦 Reach me at Twitter: @clippy_vbs
 
 <!---
 AjiKastara/AjiKastara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
