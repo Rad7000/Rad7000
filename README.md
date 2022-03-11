@@ -5,6 +5,7 @@
 - ⚡ Interested in HTML, Python, JavaScript, C, and C++
 - 📷 Reach me at Instagram: @clippy.vbs
 - 🐦 Reach me at Twitter: @clippy_vbs
+- 📨 Email me at: clippysmailbox@gmail.com
 
 <!---
 AjiKastara/AjiKastara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
