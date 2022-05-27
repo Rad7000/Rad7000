@@ -1,11 +1,9 @@
 [![Clippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiedev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📺 The owner of clippydotvbs on YouTube
-- 🧑‍💻 Current repositories: 4 (3 forked)
-- ⚡ Interested in HTML, Python, JavaScript, C, C++, and C#
-- 📷 Reach me at Instagram: @clippy.vbs
-- 🐦 Reach me at Twitter: @clippy_vbs
-- 📨 Email me at: clippysmailbox@gmail.com
+- The owner of CRTech on YouTube
+- they/any but not accepting neopronouns (genderfluid | straight)
+- Interested in HTML, Python, JavaScript, C, C++, and C#
+- Reach me at Twitter: @crtech_yt
 
 <!---
 trixiedev/trixiedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
