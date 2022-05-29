@@ -1,4 +1,4 @@
-[![Clippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiedev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CRTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad7000&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - The owner of CRTech on YouTube
 - they/any but not accepting neopronouns (genderfluid | straight)
