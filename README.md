@@ -1,7 +1,7 @@
 [![CRTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad7000&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - The owner of CRTech on YouTube
-- they/any but not accepting neopronouns (genderfluid | straight)
+- Pronouns: they/them/any (bi) 🏳️‍🌈
 - Interested in HTML, Python, JavaScript, C, C++, and C#
 - Reach me at Twitter: @crtech_yt
 
